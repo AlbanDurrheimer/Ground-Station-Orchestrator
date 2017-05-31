@@ -1,6 +1,6 @@
 # Ground-Station Orchestrator
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/NOAA-L_satellite_tilted_in_Vandenberg_AFB_clean_room.jpg/1200px-NOAA-L_satellite_tilted_in_Vandenberg_AFB_clean_room.jpg" height="450" width="400" >
+<img src="http://blogs.esa.int/rosetta/files/2016/09/New_Norcia_station.jpg" height="450" width="400" >
 
 ## License
 
