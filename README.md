@@ -1,6 +1,6 @@
 # Ground-Station Orchestrator
 
-<img src="http://blogs.esa.int/rosetta/files/2016/09/New_Norcia_station.jpg" height="450" width="400" >
+<img src="https://www.universetoday.com/wp-content/uploads/2009/05/new-norcia-antenna.jpg">
 
 ## License
 
