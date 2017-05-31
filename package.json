@@ -1,7 +1,7 @@
 {
   "name": "GS-Orchestrator",
   "version": "1.0.0",
-  "description": "Software used to control and orchestrate an autonomous ground station used to receive NOAA satellites images ",
+  "description": "Software used to control and orchestrate an autonomous ground station used to receive NOAA satellites images",
   "main": "server.js",
   "license": "CC-BY-NC-SA-4.0",
   "scripts": {
