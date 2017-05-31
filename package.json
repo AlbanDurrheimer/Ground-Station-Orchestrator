@@ -1,0 +1,21 @@
+{
+  "name": "GS-Orchestrator",
+  "version": "1.0.0",
+  "description": "Software used to control and orchestrate an autonomous ground station used to receive NOAA satellites images ",
+  "main": "server.js",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": {
+    "name": "FREY Alvin",
+    "email": "alvin.frey@protonmail.ch",
+    "url": "https://twitter.com/Frey_Alvin"
+  },
+  "contributors": [
+    {
+      "name": "Alban DURRHEIMER",
+      "email": "alban6800@hotmail.fr"
+    }
+  ]
+}
