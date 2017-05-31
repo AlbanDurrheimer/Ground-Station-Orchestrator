@@ -1,6 +1,6 @@
 # Ground-Station Orchestrator
 
-![NOAA_SAT](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/NOAA-L_satellite_tilted_in_Vandenberg_AFB_clean_room.jpg/1200px-NOAA-L_satellite_tilted_in_Vandenberg_AFB_clean_room.jpg "NOAA_SAT" )
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/NOAA-L_satellite_tilted_in_Vandenberg_AFB_clean_room.jpg/1200px-NOAA-L_satellite_tilted_in_Vandenberg_AFB_clean_room.jpg" align="left" height="450" width="400" >
 
 ## License
 
